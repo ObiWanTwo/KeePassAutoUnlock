@@ -20,7 +20,7 @@ namespace KeePassAutoUnlock
         {
             get
             {
-                return "https://github.com/jeremy-bourgin/KeePassAutoUnlock/blob/master/versionInfo.txt";
+                return "https://github.com/ObiWanTwo/KeePassAutoUnlock/raw/master/VERSION";
             }
         }
 
